@@ -1,12 +1,3 @@
-// const numbers = [3, 5, 10];
-// const strings = ["roar", "meow", "moo", "baa", "buzz"];
-// const objs = [
-//   { first: "Elie", age: 18, last: "Smith", isCatOwner: true },
-//   { first: "Tim", age: 17, last: "Lee" },
-//   { first: "Matt", age: 32, last: "Chen", isCatOwner: true },
-//   { first: "Colt", age: 26, last: "Wang" },
-// ];
-
 // function doubleValues(arr) {
 //   let newArray = [];
 //   arr.forEach(function (val) {
@@ -125,15 +116,6 @@
 // const funcName = (val) => {
 //   return val[key] === value;
 // };
-
-const numbers = [3, 5, 10, 22, 34, 6, 7];
-const strings = ["roar", "meow", "moo", "baa", "buzz"];
-const objs = [
-  { first: "Elie", age: 18, last: "Smith", isCatOwner: true },
-  { first: "Tim", age: 17, last: "Lee" },
-  { first: "Matt", age: 32, last: "Chen", isCatOwner: true },
-  { first: "Colt", age: 26, last: "Wang" },
-];
 
 function doubleValues(arr) {
   const doubledArr = [];
